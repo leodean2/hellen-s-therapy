@@ -7,5 +7,6 @@
 
 ## 🔧 Setup  
 1. Clone the repo:  
-   ```bash  
+   ```bash
+   https://github.com/leodean2/hellen-s-therapy.git
    
